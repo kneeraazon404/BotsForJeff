@@ -5,6 +5,8 @@ bots setup and instructions for  my bro Jeff
 To install all the required dependencies, run the following command:
 
 ```
+cd BotsForJeff
+
 pip install -r requirements.txt
 ```
 
