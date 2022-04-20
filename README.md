@@ -6,8 +6,22 @@ To install all the required dependencies, run the following command:
 
 ```
 cd BotsForJeff
+```
 
+### Now create one virtual environment that works for both Discord and Telegram bots
+
+```
+python3 -m venv venv
+```
+```
+source venv/bin/activate
+```
+```
+Scripts/activate
+```
+```
 pip install -r requirements.txt
+
 ```
 
 # Telegram Bot Setup and Cofiguration
@@ -15,21 +29,27 @@ pip install -r requirements.txt
 #### Just run the following commands in your terminal
 
 ```
+
 cd telegram-dm-bot
 
 python setup.py -c
+
 ```
 
 #### To scrape the users run
 
 ```
+
 python scraper.py
+
 ```
 
 #### Now you can run the sms bot with the following command
 
 ```
+
 python smsbot.py
+
 ```
 
 #### That is all for the telegram bot
