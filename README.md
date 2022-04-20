@@ -13,13 +13,24 @@ cd BotsForJeff
 ```
 python3 -m venv venv
 ```
+
 ```
+### To activate the virtualenv in Linux/Mac
+
+```
+
 source venv/bin/activate
+
+```
+
+### For windows Operating System
+```
+
+Scripts\activate.bat
+
 ```
 ```
-Scripts/activate
-```
-```
+
 pip install -r requirements.txt
 
 ```
