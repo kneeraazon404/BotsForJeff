@@ -2,6 +2,12 @@
 
 bots setup and instructions for  my bro Jeff
 
+To install all the required dependencies, run the following command:
+
+```
+pip install -r requirements.txt
+```
+
 ## Telegram Bot Setup and Cofiguration
 
 #### Just run the following commands in your terminal
