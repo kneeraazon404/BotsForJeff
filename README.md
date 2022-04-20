@@ -10,12 +10,13 @@ cd BotsForJeff
 pip install -r requirements.txt
 ```
 
-## Telegram Bot Setup and Cofiguration
+# Telegram Bot Setup and Cofiguration
 
 #### Just run the following commands in your terminal
 
 ```
 cd telegram-dm-bot
+
 python setup.py -c
 ```
 
@@ -30,3 +31,5 @@ python scraper.py
 ```
 python smsbot.py
 ```
+
+#### That is all for the telegram bot
