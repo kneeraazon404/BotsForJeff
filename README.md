@@ -4,10 +4,12 @@ bots setup and instructions for  my bro Jeff
 
 Clone and cd into the directory
 
-```git clone https://github.com/kneeraazon01/BotsForJeff
+```
+git clone https://github.com/kneeraazon01/BotsForJeff
 ```
 
-```cd BotsForJeff
+```
+cd BotsForJeff
 ```
 
 ## Now create one virtual environment that works for both Discord and Telegram bots
