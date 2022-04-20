@@ -2,7 +2,7 @@
 
 bots setup and instructions for  my bro Jeff
 
-Clone and cd into the directory
+## Clone and cd into the directory
 
 ```
 git clone https://github.com/kneeraazon01/BotsForJeff
