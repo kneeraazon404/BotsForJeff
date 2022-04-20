@@ -60,4 +60,28 @@ python scraper.py
 python smsbot.py
 ```
 
+## To add members to groups run
+
+```
+cd llattes
+```
+
+```
+python SessionCreator.py
+```
+
+```
+python Scraper.py 
+```
+
+#### and pass the username/code of the group as shown in the video, which will be the username/code from an invitation link
+
+### Now to add the members that have been scraped to members.txt to your group run
+
+```
+python MemberAdder.py
+```
+
+#### and provide the destination group as whosn in the video
+
 #### That is all for the telegram bot
