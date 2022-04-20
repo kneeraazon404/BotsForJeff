@@ -85,3 +85,27 @@ python MemberAdder.py
 #### and provide the destination group as whosn in the video
 
 #### That is all for the telegram bot
+
+# Discord Bot Setup and Cofiguration
+
+### copy your serverID, ChallelId and Authorizatin token from browser on inspecting you will get is as shown in the video
+
+You just gotta run the following commands in your terminal
+
+```
+cd DiscordBot
+```
+
+### To scrape the users run
+
+```
+```
+
+python scraper.py
+
+```
+### Then to send the users DMs you have  to run the discord-mass-dm.exc in your windows OS that is all
+
+### If you missout anything I recommend you watch the video again 
+
+Thanks!
