@@ -7,6 +7,7 @@ bots setup and instructions for  my bro Jeff
 #### Just run the following commands in your terminal
 
 ```
+cd telegram-dm-bot
 python setup.py -c
 ```
 
