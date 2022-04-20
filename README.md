@@ -29,15 +29,16 @@ source venv/bin/activate
 Scripts\activate.bat
 
 ```
+
+### Now install all the dependencies
+
 ```
 
 pip install -r requirements.txt
 
 ```
 
-
 # Telegram Bot Setup and Cofiguration
-
 
 #### Just run the following commands in your terminal
 
