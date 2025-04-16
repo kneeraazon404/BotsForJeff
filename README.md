@@ -133,12 +133,4 @@ python scraper.py
 
 **Note:** Be mindful of Discord's developer terms and community guidelines regarding user scraping.
 
-### 4. Mass Direct Messaging (Windows Only)
 
-To send direct messages to users on Windows, execute the `discord-mass-dm.exe` file.
-
-**Note:** This instruction specifies a `.exe` file, indicating a compiled executable likely designed for Windows. Ensure you understand the source and functionality of this executable before running it.
-
-If you encounter any difficulties or require further clarification, please refer back to the accompanying video tutorial for a visual guide.
-
-**Thank you!**
