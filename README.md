@@ -1,4 +1,4 @@
-# BotsForJeff - Streamlined Bot Setup for Discord and Telegram
+## BotsForJeff - Streamlined Bot Setup for Discord and Telegram
 
 This document provides comprehensive instructions for setting up and running both Discord and Telegram bots.
 
@@ -138,8 +138,6 @@ python scraper.py
 To send direct messages to users on Windows, execute the `discord-mass-dm.exe` file.
 
 **Note:** This instruction specifies a `.exe` file, indicating a compiled executable likely designed for Windows. Ensure you understand the source and functionality of this executable before running it.
-
-## Further Assistance
 
 If you encounter any difficulties or require further clarification, please refer back to the accompanying video tutorial for a visual guide.
 
